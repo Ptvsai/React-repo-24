@@ -28,7 +28,6 @@ client.connect()
     }
   
     const newUser = req.body;
-    console.log('Received newUser:', newUser);
   
     if (!newUser || typeof newUser !== 'object') {
       return res.status(400).send('Invalid request body');
