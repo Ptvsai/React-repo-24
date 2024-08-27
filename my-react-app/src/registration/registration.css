@@ -1,0 +1,22 @@
+.img-container img {
+    width: 100%;
+    height: 300px;
+}
+
+.form-group {
+    padding: 10px;
+}
+
+button {
+    margin: 20px 0px;
+    text-align: center;
+    width: 100%;
+    background-color: #ff4d4f;
+    border: 0;
+    border-radius: 10px;
+    color: #ffffff;
+    height: 30px;
+    font-size: 14px;
+    line-height: 1.7;
+    font-family: 'Praxis-Semibold', sans-serif;
+}
